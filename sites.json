@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cinemana",
+    "name": "شبكتي سينمانا",
+    "description": "واجهة مشاهدة سهلة مع محتوى متنوع من الأفلام والمسلسلات العربية والأجنبية.",
+    "image": "https://i.ibb.co/MDC0mR7N/file-0000000092cc720e972ac3b65f9afe10.png",
+    "url": "https://cinemana.shabakaty.cc/home",
+    "androidUrl": "https://t.me/iKiraPlus2/61",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "موثوق",
+    "tags": ["أفلام", "مسلسلات", "عربي", "تطبيق"],
+    "pros": ["واجهة عربية سهلة", "محتوى عربي وأجنبي", "مجاني بالكامل", "يعمل على جميع الأجهزة"],
+    "cons": ["إعلانات أحياناً", "بعض الروابط معطلة", "لا يوجد تطبيق رسمي"],
+    "order": 0
+  },
+  {
+    "id": "shashety",
+    "name": "شاشتي",
+    "description": "منصة مشاهدة عربية متكاملة مع تطبيق رسمي للأندرويد والآيفون وبث بجودة عالية.",
+    "image": "https://i.ibb.co/sv5y8Pyc/unnamed-3.png",
+    "url": "https://cinema.shashety.com",
+    "androidUrl": "https://play.google.com/store/apps/details?id=net.halasat.tv",
+    "iosUrl": "https://apps.apple.com/us/app/shashety/id1448378384?l=ar",
+    "rating": 5.0,
+    "trust": "ننصح به",
+    "tags": ["عربي", "مسلسلات", "أفلام", "تطبيق"],
+    "pros": ["تطبيق رسمي iOS وAndroid", "بث عالي الجودة", "واجهة أنيقة", "تحديث مستمر"],
+    "cons": ["بعض المحتوى مدفوع", "يتطلب تسجيل حساب", "قد لا يتوفر في بعض الدول"],
+    "order": 1
+  },
+  {
+    "id": "moviebox",
+    "name": "موفي بوكس",
+    "description": "مكتبة عالمية ضخمة وتجربة مشاهدة خفيفة مع خيارات جودة متعددة وسرعة عالية.",
+    "image": "https://i.ibb.co/4RxSnfvW/image.png",
+    "url": "https://moviebox.ph/",
+    "androidUrl": "https://t.me/iKiraPlus2/63",
+    "iosUrl": "",
+    "rating": 4.0,
+    "trust": "رائج",
+    "tags": ["أفلام", "عالمي", "تطبيق"],
+    "pros": ["مكتبة عالمية ضخمة", "سرعة تحميل عالية", "محتوى متنوع", "APK مباشر للأندرويد"],
+    "cons": ["واجهة إنجليزية", "إعلانات كثيرة", "غير متوفر على iOS"],
+    "order": 2
+  },
+  {
+    "id": "anime3rb",
+    "name": "انمي العرب",
+    "description": "الوجهة الأولى لعشاق الأنمي بالعربية مع ترجمات احترافية وتحديث يومي للحلقات.",
+    "image": "https://i.ibb.co/qMzhmkjw/images-2.png",
+    "url": "https://anime3rb.com/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 5.0,
+    "trust": "ننصح به",
+    "tags": ["أنمي", "عربي"],
+    "pros": ["ترجمة عربية احترافية", "تحديث يومي للحلقات", "مجاني بالكامل", "مكتبة ضخمة"],
+    "cons": ["متخصص بالأنمي فقط", "لا يوجد تطبيق رسمي", "إعلانات أحياناً"],
+    "order": 3
+  }
+]
