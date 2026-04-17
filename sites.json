@@ -140,5 +140,20 @@
       "غير متوفر على iOS"
     ],
     "order": 4
+  },
+  {
+    "id": "-1776462144576",
+    "name": "فودو",
+    "description": "سؤسيؤ",
+    "image": "https://i.ibb.co/FRQ0qvq/4353584e1dd5.jpg",
+    "url": "https://movie.vodu.me/index.php",
+    "androidUrl": "https://t.me/iKiraPlus2/61",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "ننصح به",
+    "tags": [],
+    "pros": [],
+    "cons": [],
+    "order": 5
   }
 ]
