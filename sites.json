@@ -111,5 +111,34 @@
       "إعلانات أحياناً"
     ],
     "order": 3
+  },
+  {
+    "id": "cee",
+    "name": "Cee",
+    "description": "منصة حديثة بتجربة مستخدم سلسة وتطبيق أندرويد مباشر بدون الحاجة للمتجر.",
+    "image": "https://i.ibb.co/6cpLthDF/unnamed-4.png",
+    "url": "https://cee.buzz/home",
+    "androidUrl": "https://updates.cee.buzz/public/APK/CEE.apk",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "موثوق به",
+    "tags": [
+      "أفلام",
+      "مسلسلات",
+      "تطبيق",
+      "جديد"
+    ],
+    "pros": [
+      "تصميم عصري وسلس",
+      "APK مباشر بدون متجر",
+      "خفيف وسريع",
+      "تحديثات مستمرة"
+    ],
+    "cons": [
+      "جديد نسبياً",
+      "قاعدة محتوى أصغر",
+      "غير متوفر على iOS"
+    ],
+    "order": 4
   }
 ]
