@@ -225,8 +225,10 @@
     "androidUrl": "",
     "iosUrl": "",
     "rating": 4.5,
-    "trust": "موثوق",
-    "tags": [],
+    "trust": "ننصح به",
+    "tags": [
+      "انمي"
+    ],
     "pros": [],
     "cons": [],
     "order": 10
