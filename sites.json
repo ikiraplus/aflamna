@@ -262,5 +262,20 @@
     "pros": [],
     "cons": [],
     "order": 12
+  },
+  {
+    "id": "-1776533038955",
+    "name": "سيفلكس",
+    "description": "بثب",
+    "image": "",
+    "url": "https://sflix.film/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "موثوق",
+    "tags": [],
+    "pros": [],
+    "cons": [],
+    "order": 13
   }
 ]
