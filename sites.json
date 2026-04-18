@@ -232,5 +232,20 @@
     "pros": [],
     "cons": [],
     "order": 10
+  },
+  {
+    "id": "-1776532431046",
+    "name": "فلمي",
+    "description": "قبقب",
+    "image": "https://i.ibb.co/SD2gDCJG/c459879fab1e.png",
+    "url": "https://flmy.netlify.app/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "موثوق",
+    "tags": [],
+    "pros": [],
+    "cons": [],
+    "order": 11
   }
 ]
