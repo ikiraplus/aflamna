@@ -145,6 +145,21 @@
     "order": 5
   },
   {
+    "id": "-1776500795099",
+    "name": "أكوام",
+    "description": "ءيص",
+    "image": "",
+    "url": "https://akwams.co/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "موثوق",
+    "tags": [],
+    "pros": [],
+    "cons": [],
+    "order": 6
+  },
+  {
     "id": "anime3rb",
     "name": "انمي العربd",
     "description": "الوجهة الأولى لعشاق الأنمي بالعربية مع ترجمات احترافية وتحديث يومي للحلقات.",
@@ -169,21 +184,6 @@
       "لا يوجد تطبيق رسمي",
       "إعلانات أحياناً"
     ],
-    "order": 6
-  },
-  {
-    "id": "-1776500795099",
-    "name": "أكوام",
-    "description": "ءيص",
-    "image": "",
-    "url": "https://akwams.co/",
-    "androidUrl": "",
-    "iosUrl": "",
-    "rating": 4.5,
-    "trust": "موثوق",
-    "tags": [],
-    "pros": [],
-    "cons": [],
     "order": 7
   },
   {
