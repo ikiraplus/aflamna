@@ -130,6 +130,21 @@
     "order": 4
   },
   {
+    "id": "viu-1776462760857",
+    "name": "Viu",
+    "description": "dd",
+    "image": "https://i.ibb.co/H5jbX05/96f1c20baa57.jpg",
+    "url": "https://www.viu.com/ott/iq",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "موثوق",
+    "tags": [],
+    "pros": [],
+    "cons": [],
+    "order": 5
+  },
+  {
     "id": "anime3rb",
     "name": "انمي العربd",
     "description": "الوجهة الأولى لعشاق الأنمي بالعربية مع ترجمات احترافية وتحديث يومي للحلقات.",
@@ -154,21 +169,6 @@
       "لا يوجد تطبيق رسمي",
       "إعلانات أحياناً"
     ],
-    "order": 5
-  },
-  {
-    "id": "viu-1776462760857",
-    "name": "Viu",
-    "description": "dd",
-    "image": "https://i.ibb.co/H5jbX05/96f1c20baa57.jpg",
-    "url": "https://www.viu.com/ott/iq",
-    "androidUrl": "",
-    "iosUrl": "",
-    "rating": 4.5,
-    "trust": "موثوق",
-    "tags": [],
-    "pros": [],
-    "cons": [],
     "order": 6
   },
   {
