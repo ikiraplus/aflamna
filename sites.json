@@ -534,5 +534,24 @@
       "إعلانات أثناء التصفح"
     ],
     "order": 19
+  },
+  {
+    "id": "--1778486306434",
+    "name": "سينما بوكس",
+    "description": "اا",
+    "image": "https://i.ibb.co/GfhKkGmb/5ad0976d879a.png",
+    "url": "https://cinema.albox.co/",
+    "androidUrl": "https://play.google.com/store/apps/details?id=co.albox.cinema",
+    "iosUrl": "https://apps.apple.com/us/app/cinema-box-%D8%B3%D9%8A%D9%86%D9%85%D8%A7-%D8%A8%D9%88%D9%83%D8%B3/id1530506555",
+    "rating": 4.5,
+    "trust": "سوبرسيل - فايبر اكس",
+    "tags": [
+      "عراقي",
+      "شامل",
+      "تطبيق"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 20
   }
 ]
