@@ -553,5 +553,24 @@
     "pros": [],
     "cons": [],
     "order": 20
+  },
+  {
+    "id": "streamimdb-1778486828726",
+    "name": "StreamImdb",
+    "description": "اا",
+    "image": "https://i.ibb.co/m5YHczwT/ad789a97d0b1.png",
+    "url": "https://streamimdb.ru/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "عالمي",
+      "شامل",
+      "جديد"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 21
   }
 ]
