@@ -588,5 +588,24 @@
       "قد تتغير جودة أو توفر الروابط لأنه يعتمد على موقع ويب فقط"
     ],
     "order": 21
+  },
+  {
+    "id": "aavalon-anime-1784445311855",
+    "name": "aavalon anime",
+    "description": "d",
+    "image": "https://i.ibb.co/nqjyKJc0/d2d8c480dfaa.png",
+    "url": "https://www.aavalon.net/ar",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "جديد",
+      "كرتون",
+      "أنمي"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 22
   }
 ]
