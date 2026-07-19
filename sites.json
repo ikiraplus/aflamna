@@ -607,5 +607,24 @@
     "pros": [],
     "cons": [],
     "order": 22
+  },
+  {
+    "id": "-1784445536921",
+    "name": "بلكس",
+    "description": "c",
+    "image": "https://i.ibb.co/kVB3mTFw/78a194c12827.png",
+    "url": "https://jdmoon.netlify.app/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "عراقي",
+      "جديد",
+      "شامل"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 23
   }
 ]
