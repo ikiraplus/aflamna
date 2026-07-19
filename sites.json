@@ -626,5 +626,24 @@
     "pros": [],
     "cons": [],
     "order": 23
+  },
+  {
+    "id": "orxa-1784445884950",
+    "name": "orxa",
+    "description": "d",
+    "image": "https://i.ibb.co/bjGHX6tz/30ca326b6d57.png",
+    "url": "https://orxa.vercel.app/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "عربي",
+      "جديد",
+      "شامل"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 24
   }
 ]
