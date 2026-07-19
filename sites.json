@@ -645,5 +645,24 @@
     "pros": [],
     "cons": [],
     "order": 24
+  },
+  {
+    "id": "--1784446018159",
+    "name": "مدينة الافلام",
+    "description": "ي",
+    "image": "https://i.ibb.co/qLCTZXMS/695d4531e822.png",
+    "url": "https://m.filmcity12.com/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "جديد",
+      "شامل",
+      "عربي"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 25
   }
 ]
