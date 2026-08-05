@@ -723,5 +723,24 @@
       "تركيزه الأساسي على المحتوى الآسيوي يجعله أقل شمولاً للمحتوى العربي والغربي"
     ],
     "order": 26
+  },
+  {
+    "id": "cinejoy-1785941052182",
+    "name": "CineJoy",
+    "description": ".",
+    "image": "https://i.ibb.co/DgKLGBq3/c986c21cba4d.png",
+    "url": "https://cinejoy.to/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4.5,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "جديد",
+      "شامل",
+      "عالمي"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 27
   }
 ]
