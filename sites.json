@@ -750,5 +750,24 @@
       "يعتمد على مشغلات ومصادر خارجية وقد تختلف جودة الروابط أو تتوقف"
     ],
     "order": 27
+  },
+  {
+    "id": "-1786200946011",
+    "name": "قرمزي",
+    "description": ".",
+    "image": "https://i.ibb.co/8nJpF2Dc/f9bc75bb0660.png",
+    "url": "https://krmzi.org",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "تركي",
+      "عالمي",
+      "رمضان"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 28
   }
 ]
