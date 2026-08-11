@@ -777,5 +777,24 @@
       "معلومات توفر نسخة iPhone غير متسقة في الموقع؛ صفحة التحميل تضع رابط App Store بينما قسم الأسئلة الشائعة ما زال يذكر أن نسخة iPhone غير متوفرة"
     ],
     "order": 28
+  },
+  {
+    "id": "dulo-1786439477594",
+    "name": "Dulo",
+    "description": ".",
+    "image": "https://i.ibb.co/pvG5Z6xf/b7ae1404fbf9.png",
+    "url": "http://dulo.cx",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "شامل",
+      "عالمي",
+      "جديد"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 29
   }
 ]
