@@ -834,5 +834,24 @@
     "pros": [],
     "cons": [],
     "order": 31
+  },
+  {
+    "id": "--1786530518238",
+    "name": "شوف فري",
+    "description": "ب",
+    "image": "https://i.ibb.co/bT4mVnS/b66c85870cec.png",
+    "url": "https://shoffree.cc/explore",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "جديد",
+      "شامل",
+      "عربي"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 32
   }
 ]
