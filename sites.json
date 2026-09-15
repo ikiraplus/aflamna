@@ -923,5 +923,24 @@
     "pros": [],
     "cons": [],
     "order": 34
+  },
+  {
+    "id": "--1789466272560",
+    "name": "شوف لايف",
+    "description": "ي",
+    "image": "https://i.ibb.co/SDZbnSFT/011668cf8de8.png",
+    "url": "https://shooflive.net/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "عربي",
+      "جديد",
+      "شامل"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 35
   }
 ]
