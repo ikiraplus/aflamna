@@ -885,5 +885,24 @@
       "لا يوجد تطبيق رسمي موثق لـ Android أو iOS في صفحات الموقع الحالية"
     ],
     "order": 32
+  },
+  {
+    "id": "-1789465828943",
+    "name": "كارتوني",
+    "description": "ي",
+    "image": "https://i.ibb.co/FLtsRb4c/8f72a746ba92.png",
+    "url": "https://kartoney.com/",
+    "androidUrl": "",
+    "iosUrl": "",
+    "rating": 4,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "تطبيق",
+      "كرتون",
+      "أنمي"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 33
   }
 ]
