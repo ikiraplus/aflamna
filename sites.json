@@ -904,5 +904,24 @@
     "pros": [],
     "cons": [],
     "order": 33
+  },
+  {
+    "id": "7reels-1789466160092",
+    "name": "7Reels",
+    "description": "d",
+    "image": "https://i.ibb.co/KpKfrGym/411edf53d781.png",
+    "url": "https://7reels.cc/",
+    "androidUrl": "https://7reels.cc/downloads/7reels-tv-beta.apk",
+    "iosUrl": "",
+    "rating": 4,
+    "trust": "يدعم كل الشبكات",
+    "tags": [
+      "تطبيق",
+      "شامل",
+      "جديد"
+    ],
+    "pros": [],
+    "cons": [],
+    "order": 34
   }
 ]
